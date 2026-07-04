@@ -17,6 +17,18 @@
       "featured": true,
       "cart": "games/breakout/breakout.lz100.png",
       "source": "games/breakout/breakout.lz100"
+    },
+    {
+      "id": "snake",
+      "name": "Snake",
+      "author": "MickeyMiao",
+      "description": "Classic snake game: eat food, grow longer, avoid walls and yourself.",
+      "version": "1.0.0",
+      "category": "arcade",
+      "tags": ["classic", "arcade", "snake"],
+      "license": "MIT",
+      "featured": false,
+      "source": "games/snake/snake.lz100"
     }
   ]
 }
